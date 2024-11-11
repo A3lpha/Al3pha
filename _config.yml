@@ -1,8 +1,24 @@
-title: Just the Docs Template
+title: AlphaSploit
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+theme: AlphaSploit
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  social_links:
+  github: "https://github.com/A3lpha"
+  linkedin: "https://linkedin.com/in/your-profile"
+  twitter: "https://x.com/He1l0world"
+
+
+# External navigation links
+nav_external_links:
+    
+  - title: My profile
+    url: https://github.com/A3lpha
+    hide_icon: true
+    opens_in_new_tab: true
+    
+
+color_scheme: dark
